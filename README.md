@@ -25,4 +25,4 @@ poetry run alli rx http://glaikjrgosihrgoislhr.onion/_alli/myfile.txt
 
 - `alli send` creates a tor hidden service whose only purpose is to send the file
 - `alli receive` is a glorified downloader
-- once the download is finished, `alli send` destroys the hidden service
+- **TODO** once the download is finished, `alli send` destroys the hidden service
