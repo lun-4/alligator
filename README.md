@@ -1,8 +1,6 @@
 # alligator
 
-because i think [croc](croc)-but-its-tor-services would be a really, really funny idea
-
-[croc]: https://github.com/schollz/croc
+because i think [croc](https://github.com/schollz/croc)-but-its-tor-services would be a really, really funny idea
 
 ## how install
 
